@@ -12,10 +12,10 @@ Two handy M4L devices for sonifying time series data, events are triggered accor
 
 Maps time series data to a single stream of MIDI note numbers.
 
-![](https://github.com/carthach/ableson/media/mid.gif)
+![](https://github.com/carthach/ableson/blob/main/media/mid.gif)
 
 ### Ableson-Mod
 
 Maps time series data to a real-time control value that can be mapped to parameters in Live.
 
-![](https://github.com/carthach/ableson/media/mod.gif)
+![](https://github.com/carthach/ableson/blob/main/media/mod.gif)

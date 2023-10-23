@@ -8,6 +8,12 @@ Two handy M4L devices for sonifying time series data, events are triggered accor
 0, 1.0;
 1, 2.0;
 
+## Installation
+
+Devices are in the presets folder. Demo usage in the Ableton session.
+
+## Devices
+
 ### Ableson-Mid
 
 Maps time series data to a single stream of MIDI note numbers.
